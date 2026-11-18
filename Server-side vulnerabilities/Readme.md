@@ -31,16 +31,16 @@ Access control is a security process that regulates who or what can view, enter,
 
 Authentication is the security process of verifying that a user, device, or system is genuinely who or what it claims to be. While identification asks "who are you?", authentication confirms "prove it" before granting access to systems, networks, or data.
 
-- Authentication vulnerabilities
-- What is the difference between authentication and authorization?
-- Brute-force attacks
-- Brute-forcing usernames
-- Brute-forcing passwords
-- Brute-forcing passwords - Continued
-- Username enumeration
-- Lab: Username enumeration via different responses
-- Bypassing two-factor authentication
-- Lab: 2FA simple bypass
+- [Authentication vulnerabilities](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Authentication/Authentication%20vulnerabilities.md)
+- [What is the difference between authentication and authorization?](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Authentication/What%20is%20the%20difference%20between%20authentication%20and%20authorization%3F.md)
+- [Brute-force attacks](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Authentication/Brute-force%20attacks.md)
+- [Brute-forcing usernames](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Authentication/Brute-forcing%20usernames.md)
+- [Brute-forcing passwords](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Authentication/Brute-forcing%20passwords.md)
+- [Brute-forcing passwords - Continued](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Authentication/Brute-forcing%20passwords%20-%20Continued.md)
+- [Username enumeration](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Authentication/Username%20enumeration.md)
+- [Lab: Username enumeration via different responses](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Authentication/Lab%3A%20Username%20enumeration%20via%20different%20responses.md)
+- [Bypassing two-factor authentication](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Authentication/Bypassing%20two-factor%20authentication.md)
+- [Lab: 2FA simple bypass](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Authentication/Lab%3A%202FA%20simple%20bypass.md)
 
 ## Server-side request forgery (SSRF)
 
