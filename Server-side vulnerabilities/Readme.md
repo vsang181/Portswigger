@@ -6,9 +6,9 @@ Server-side vulnerabilities are security weaknesses in a web application's code,
 
 Path traversal (also known as directory traversal or dot-dot-slash) is a web application vulnerability that allows attackers to access restricted files and directories outside of the intended web root folder on a server.
 
-- What is path traversal?
-- Reading arbitrary files via path traversal
-- Lab: File path traversal, simple case
+- [What is path traversal?](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Path%20traversal/What%20is%20path%20traversal%3F.md)
+- [Reading arbitrary files via path traversal](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Path%20traversal/Reading%20arbitrary%20files%20via%20path%20traversal.md)
+- [Lab: File path traversal, simple case](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Path%20traversal/Lab%3A%20File%20path%20traversal%2C%20simple%20case.md)
 
 ## Access control
 
