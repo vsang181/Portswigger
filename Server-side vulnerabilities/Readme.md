@@ -14,18 +14,18 @@ Path traversal (also known as directory traversal or dot-dot-slash) is a web app
 
 Access control is a security process that regulates who or what can view, enter, or use physical spaces, digital networks, and data resources. It acts like a digital or physical bouncer, letting authorized people in while keeping unauthorized users out.
 
-- What is access control?
-- Vertical privilege escalation
-- Unprotected functionality
-- Lab: Unprotected admin functionality
-- Unprotected functionality - Continued
-- Lab: Unprotected admin functionality with unpredictable URL
-- Parameter-based access control methods
-- Lab: User role controlled by request parameter
-- Horizontal privilege escalation
-- Lab: User ID controlled by request parameter, with unpredictable user IDs
-- Horizontal to vertical privilege escalation
-- Lab: User ID controlled by request parameter with password disclosure
+- [What is access control?](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/What%20is%20access%20control%3F.md)
+- [Vertical privilege escalation](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/Vertical%20privilege%20escalation.md)
+- [Unprotected functionality](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/Unprotected%20functionality.md)
+- [Lab: Unprotected admin functionality](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/Lab%3A%20Unprotected%20admin%20functionality.md)
+- [Unprotected functionality - Continued](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/Unprotected%20functionality%20-%20Continued.md)
+- [Lab: Unprotected admin functionality with unpredictable URL](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/Lab%3A%20Unprotected%20admin%20functionality%20with%20unpredictable%20URL.md)
+- [Parameter-based access control methods](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/Parameter-based%20access%20control%20methods.md)
+- [Lab: User role controlled by request parameter](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/Lab%3A%20User%20role%20controlled%20by%20request%20parameter.md)
+- [Horizontal privilege escalation](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/Horizontal%20privilege%20escalation.md)
+- [Lab: User ID controlled by request parameter, with unpredictable user IDs](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/Lab%3A%20User%20ID%20controlled%20by%20request%20parameter%2C%20with%20unpredictable%20user%20IDs.md)
+- [Horizontal to vertical privilege escalation](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/Horizontal%20to%20vertical%20privilege%20escalation.md)
+- [Lab: User ID controlled by request parameter with password disclosure](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Access%20control/Lab%3A%20User%20ID%20controlled%20by%20request%20parameter%20with%20password%20disclosure.md)
 
 ## Authentication
 
