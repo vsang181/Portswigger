@@ -12,50 +12,50 @@
 - [OS command injection](https://github.com/vsang181/Portswigger/tree/main/Server-side%20vulnerabilities/OS%20command%20injection)
 - [SQL injection](https://github.com/vsang181/Portswigger/tree/main/Server-side%20vulnerabilities/SQL%20injection)
 
-3. SQL injection
+2. SQL injection
 
 
-4. Web LLM attacks
+3. Web LLM attacks
 
 
-5. Cross-site request forgery (CSRF)
+4. Cross-site request forgery (CSRF)
 
 
-6. Web cache deception
+5. Web cache deception
 
 
-7. WebSockets vulnerabilities
+6. WebSockets vulnerabilities
 
 
-8. Authentication vulnerabilities
+7. Authentication vulnerabilities
 
 
-9. Server-side request forgery (SSRF) attacks
+8. Server-side request forgery (SSRF) attacks
 
 
-10. Prototype pollution
+9. Prototype pollution
 
 
-11. Clickjacking (UI redressing)
+10. Clickjacking (UI redressing)
 
 
-12. GraphQL API vulnerabilities
+11. GraphQL API vulnerabilities
 
 
-13. Cross-origin resource sharing (CORS)
+12. Cross-origin resource sharing (CORS)
 
 
-14. Path traversal
+13. Path traversal
 
 
-15. NoSQL injection
+14. NoSQL injection
 
 
-16. Race conditions
+15. Race conditions
 
 
-17. File upload vulnerabilities
+16. File upload vulnerabilities
 
 
-18. API testing
+17. API testing
 
