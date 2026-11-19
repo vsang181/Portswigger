@@ -4,13 +4,13 @@
 
 1. Server-side vulnerabilities
 
-- Path traversal
-- Access control
-- Authentication
-- Server-side request forgery (SSRF)
-- File upload vulnerabilities
-- OS command injection
-- SQL injection
+- [Path traversal](https://github.com/vsang181/Portswigger/tree/main/Server-side%20vulnerabilities/Path%20traversal)
+- [Access control](https://github.com/vsang181/Portswigger/tree/main/Server-side%20vulnerabilities/Access%20control)
+- [Authentication](https://github.com/vsang181/Portswigger/tree/main/Server-side%20vulnerabilities/Authentication)
+- [Server-side request forgery (SSRF)](https://github.com/vsang181/Portswigger/tree/main/Server-side%20vulnerabilities/Server-side%20request%20forgery%20(SSRF))
+- [File upload vulnerabilities](https://github.com/vsang181/Portswigger/tree/main/Server-side%20vulnerabilities/File%20upload%20vulnerabilities)
+- [OS command injection](https://github.com/vsang181/Portswigger/tree/main/Server-side%20vulnerabilities/OS%20command%20injection)
+- [SQL injection](https://github.com/vsang181/Portswigger/tree/main/Server-side%20vulnerabilities/SQL%20injection)
 
 3. SQL injection
 
