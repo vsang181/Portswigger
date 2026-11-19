@@ -15,3 +15,15 @@ When an application inserts untrusted user input directly into a database query 
 - **Server & Infrastructure Compromise**: In certain database configurations (such as Microsoft SQL Server's `xp_cmdshell` or PostgreSQL's `COPY ... FROM PROGRAM`), attackers can escalate SQL injection to execute operating system commands and take over the underlying server.
 
 - **Denial of Service (DoS)**: Attackers can drop critical tables, lock database resources, or trigger heavy queries that degrade or crash the database service.
+
+## How SQL Injection Happens (Core Concept)
+
+SQL injection occurs when user input is treated as executable SQL code rather than plain data.
+
+For example, if an application constructs a query via string concatenation:
+
+```
+SELECT * FROM users WHERE username = 'user_input' AND password = 'password_input';
+```
+
+An attacker supplying `admin' --` as the username breaks out of the data context, prematurely closes the string literal with a single quote (`'`), and uses a SQL comment (`--`) to ignore the rest of the original query—effectively logging in without a password.
