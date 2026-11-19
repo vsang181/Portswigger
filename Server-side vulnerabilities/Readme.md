@@ -46,12 +46,12 @@ Authentication is the security process of verifying that a user, device, or syst
 
 Server-side request forgery (SSRF) is a web security vulnerability that allows an attacker to trick a server into making unauthorized network requests to unintended locations.
 
-- What is SSRF?
-- SSRF attacks against the server
-- SSRF attacks against the server - Continued
-- Lab: Basic SSRF against the local server
-- SSRF attacks against other back-end systems
-- Lab: Basic SSRF against another back-end system
+- [What is SSRF?](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Server-side%20request%20forgery%20(SSRF)/What%20is%20SSRF%3F.md)
+- [SSRF attacks against the server](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Server-side%20request%20forgery%20(SSRF)/SSRF%20attacks%20against%20the%20server.md)
+- [SSRF attacks against the server - Continued](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Server-side%20request%20forgery%20(SSRF)/SSRF%20attacks%20against%20the%20server%20-%20Continued.md)
+- [Lab: Basic SSRF against the local server](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Server-side%20request%20forgery%20(SSRF)/Lab%3A%20Basic%20SSRF%20against%20the%20local%20server.md)
+- [SSRF attacks against other back-end systems](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Server-side%20request%20forgery%20(SSRF)/SSRF%20attacks%20against%20other%20back-end%20systems.md)
+- [Lab: Basic SSRF against another back-end system](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/Server-side%20request%20forgery%20(SSRF)/Lab%3A%20Basic%20SSRF%20against%20another%20back-end%20system.md)
 
 ## File upload vulnerabilities
 
