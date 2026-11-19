@@ -57,15 +57,15 @@ Server-side request forgery (SSRF) is a web security vulnerability that allows a
 
 File upload vulnerabilities occur when a web server allows users to upload files without properly validating their name, type, contents, or size.
 
-- What are file upload vulnerabilities?
-- How do file upload vulnerabilities arise?
-- Exploiting unrestricted file uploads to deploy a web shell
-- Lab: Remote code execution via web shell upload
-- Exploiting flawed validation of file uploads
-- Flawed file type validation
-- Flawed file type validation - Continued
-- Flawed file type validation - Continued
-- Lab: Web shell upload via Content-Type restriction bypass
+- [What are file upload vulnerabilities?](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/File%20upload%20vulnerabilities/What%20are%20file%20upload%20vulnerabilities%3F.md)
+- [How do file upload vulnerabilities arise?](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/File%20upload%20vulnerabilities/How%20do%20file%20upload%20vulnerabilities%20arise%3F.md)
+- [Exploiting unrestricted file uploads to deploy a web shell](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/File%20upload%20vulnerabilities/Exploiting%20unrestricted%20file%20uploads%20to%20deploy%20a%20web%20shell.md)
+- [Lab: Remote code execution via web shell upload](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/File%20upload%20vulnerabilities/Lab%3A%20Remote%20code%20execution%20via%20web%20shell%20upload.md)
+- [Exploiting flawed validation of file uploads](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/File%20upload%20vulnerabilities/Exploiting%20flawed%20validation%20of%20file%20uploads.md)
+- [Flawed file type validation](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/File%20upload%20vulnerabilities/Flawed%20file%20type%20validation.md)
+- [Flawed file type validation - Continued](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/File%20upload%20vulnerabilities/Flawed%20file%20type%20validation%20-%20Continued.md)
+- [Flawed file type validation - Continued](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/File%20upload%20vulnerabilities/Flawed%20file%20type%20validation%20-%20Continuedd.md)
+- [Lab: Web shell upload via Content-Type restriction bypass](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/File%20upload%20vulnerabilities/Lab%3A%20Web%20shell%20upload%20via%20Content-Type%20restriction%20bypass.md)
 
 ## OS command injection
 
