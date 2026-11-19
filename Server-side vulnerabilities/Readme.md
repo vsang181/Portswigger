@@ -71,11 +71,11 @@ File upload vulnerabilities occur when a web server allows users to upload files
 
 OS command injection is a web security vulnerability that allows an attacker to execute arbitrary operating system commands on the server running an application.
 
-- What is OS command injection?
-- Useful commands
-- Injecting OS commands
-- Injecting OS commands - Continued
-- Lab: OS command injection, simple case
+- [What is OS command injection?](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/OS%20command%20injection/What%20is%20OS%20command%20injection%3F.md)
+- [Useful commands](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/OS%20command%20injection/Useful%20commands.md)
+- [Injecting OS commands](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/OS%20command%20injection/Injecting%20OS%20commands.md)
+- [Injecting OS commands - Continued](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/OS%20command%20injection/Injecting%20OS%20commands%20-%20Continued.md)
+- [Lab: OS command injection, simple case](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/OS%20command%20injection/Lab%3A%20OS%20command%20injection%2C%20simple%20case.md)
 
 ## SQL injection
 
