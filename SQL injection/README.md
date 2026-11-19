@@ -8,7 +8,7 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 
 ## How to detect SQL injection vulnerabilities
 
-- How to detect SQL injection vulnerabilities A
+- How to detect SQL injection vulnerabilities
 - SQL injection in different parts of the query 
 
 ## Retrieving hidden data
