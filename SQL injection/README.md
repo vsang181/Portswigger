@@ -13,9 +13,9 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 
 ## Retrieving hidden data
 
-- Retrieving hidden data
-- Retrieving hidden data - Continued
-- Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+- [Retrieving hidden data](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Retrieving%20hidden%20data/Retrieving%20hidden%20data.md)
+- [Retrieving hidden data - Continued](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Retrieving%20hidden%20data/Retrieving%20hidden%20data%20-%20Continued.md)
+- [Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Retrieving%20hidden%20data/Lab%3A%20SQL%20injection%20vulnerability%20in%20WHERE%20clause%20allowing%20retrieval%20of%20hidden%20data.md)
 
 ## Subverting application logic
 
