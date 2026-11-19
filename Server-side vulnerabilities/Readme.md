@@ -81,11 +81,11 @@ OS command injection is a web security vulnerability that allows an attacker to 
 
 SQL injection (SQLi) is a web security vulnerability that allows an attacker to interfere with the queries an application makes to its database.
 
-- What is SQL injection (SQLi)?
-- How to detect SQL injection vulnerabilities
-- Retrieving hidden data
-- Retrieving hidden data - Continued
-- Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
-- Subverting application logic
-- Lab: SQL injection vulnerability allowing login bypass
+- [What is SQL injection (SQLi)?](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/SQL%20injection/What%20is%20SQL%20injection%20(SQLi)%3F.md)
+- [How to detect SQL injection vulnerabilities](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/SQL%20injection/How%20to%20detect%20SQL%20injection%20vulnerabilities.md)
+- [Retrieving hidden data](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/SQL%20injection/Retrieving%20hidden%20data.md)
+- [Retrieving hidden data - Continued](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/SQL%20injection/Retrieving%20hidden%20data%20-%20Continued.md)
+- [Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/SQL%20injection/How%20to%20detect%20SQL%20injection%20vulnerabilities.md)
+- [Subverting application logic](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/SQL%20injection/Subverting%20application%20logic.md)
+- [Lab: SQL injection vulnerability allowing login bypass](https://github.com/vsang181/Portswigger/blob/main/Server-side%20vulnerabilities/SQL%20injection/Lab%3A%20SQL%20injection%20vulnerability%20allowing%20login%20bypass.md)
   
