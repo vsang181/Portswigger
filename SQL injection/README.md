@@ -20,7 +20,7 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 ## Subverting application logic
 
 - [Subverting application logic](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Subverting%20application%20logic/Subverting%20application%20logic.md)
-- Lab: SQL injection vulnerability allowing login bypass
+- [Lab: SQL injection vulnerability allowing login bypass](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Subverting%20application%20logic/Lab%3A%20SQL%20injection%20vulnerability%20allowing%20login%20bypass.md)
 
 ## SQL injection UNION attacks
 
