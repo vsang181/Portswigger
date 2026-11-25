@@ -59,8 +59,8 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 
 ## Blind SQL injection
 
-- Blind SQL injection
-- What is blind SQL injection?
+- [Blind SQL injection](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Blind%20SQL%20injection/Blind%20SQL%20injection.md)
+- [What is blind SQL injection?](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Blind%20SQL%20injection/What%20is%20blind%20SQL%20injection%3F.md)
 
 ## Exploiting blind SQL injection by triggering conditional responses
 
