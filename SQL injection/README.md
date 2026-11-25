@@ -29,10 +29,10 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
   
 ## Determining the number of columns required
 
-- Determining the number of columns required
-- Determining the number of columns required - Continued
-- Lab: SQL injection UNION attack, determining the number of columns returned by the query
-- Database-specific syntax
+- [Determining the number of columns required](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Determining%20the%20number%20of%20columns%20required/Determining%20the%20number%20of%20columns%20required.md)
+- [Determining the number of columns required - Continued](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Determining%20the%20number%20of%20columns%20required/Determining%20the%20number%20of%20columns%20required%20-%20Continued.md)
+- [Lab: SQL injection UNION attack, determining the number of columns returned by the query](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Determining%20the%20number%20of%20columns%20required/Lab%3A%20SQL%20injection%20UNION%20attack%2C%20determining%20the%20number%20of%20columns%20returned%20by%20the%20query.md)
+- [Database-specific syntax](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Determining%20the%20number%20of%20columns%20required/Database-specific%20syntax.md)
 
 ## Finding columns with a useful data type
 
