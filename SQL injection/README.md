@@ -51,11 +51,11 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 
 ## Examining the database
 
-- Examining the database in SQL injection attacks
-- Querying the database type and version
-- Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft
-- Listing the contents of the database
-- Lab: SQL injection attack, listing the database contents on non-Oracle databases
+- [Examining the database in SQL injection attacks](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Examining%20the%20database/Examining%20the%20database%20in%20SQL%20injection%20attacks.md)
+- [Querying the database type and version](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Examining%20the%20database/Querying%20the%20database%20type%20and%20version.md)
+- [Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Examining%20the%20database/Lab%3A%20SQL%20injection%20attack%2C%20querying%20the%20database%20type%20and%20version%20on%20MySQL%20and%20Microsoft.md)
+- [Listing the contents of the database](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Examining%20the%20database/Listing%20the%20contents%20of%20the%20database.md)
+- [Lab: SQL injection attack, listing the database contents on non-Oracle databases](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Examining%20the%20database/Lab%3A%20SQL%20injection%20attack%2C%20listing%20the%20database%20contents%20on%20non-Oracle%20databases.md)
 
 ## Blind SQL injection
 
