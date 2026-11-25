@@ -36,13 +36,13 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 
 ## Finding columns with a useful data type
 
-- Finding columns with a useful data type
-- Lab: SQL injection UNION attack, finding a column containing text
+- [Finding columns with a useful data type](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Finding%20columns%20with%20a%20useful%20data%20type/Finding%20columns%20with%20a%20useful%20data%20type.md)
+- [Lab: SQL injection UNION attack, finding a column containing text](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Finding%20columns%20with%20a%20useful%20data%20type/Lab%3A%20SQL%20injection%20UNION%20attack%2C%20finding%20a%20column%20containing%20text.md)
 
 ## Using a SQL injection UNION attack to retrieve interesting data
 
-- Using a SQL injection UNION attack to retrieve interesting data
-- Lab: SQL injection UNION attack, retrieving data from other tables
+- [Using a SQL injection UNION attack to retrieve interesting data](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Using%20a%20SQL%20injection%20UNION%20attack%20to%20retrieve%20interesting%20data/Using%20a%20SQL%20injection%20UNION%20attack%20to%20retrieve%20interesting%20data.md)
+- [Lab: SQL injection UNION attack, retrieving data from other tables](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Using%20a%20SQL%20injection%20UNION%20attack%20to%20retrieve%20interesting%20data/Lab%3A%20SQL%20injection%20UNION%20attack%2C%20retrieving%20data%20from%20other%20tables.md)
   
 ## Retrieving multiple values within a single column
 
