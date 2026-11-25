@@ -46,8 +46,8 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
   
 ## Retrieving multiple values within a single column
 
-- Retrieving multiple values within a single column
-- Lab: SQL injection UNION attack, retrieving multiple values in a single column
+- [Retrieving multiple values within a single column](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Retrieving%20multiple%20values%20within%20a%20single%20column/Retrieving%20multiple%20values%20within%20a%20single%20column.md)
+- [Lab: SQL injection UNION attack, retrieving multiple values in a single column](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Retrieving%20multiple%20values%20within%20a%20single%20column/Lab%3A%20SQL%20injection%20UNION%20attack%2C%20retrieving%20multiple%20values%20in%20a%20single%20column.md)
 
 ## Examining the database
 
