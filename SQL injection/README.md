@@ -24,8 +24,8 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 
 ## SQL injection UNION attacks
 
-- SQL injection UNION attacks
-- SQL injection UNION attacks - Continued
+- [SQL injection UNION attacks](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/SQL%20injection%20UNION%20attacks/SQL%20injection%20UNION%20attacks.md)
+- [SQL injection UNION attacks - Continued](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/SQL%20injection%20UNION%20attacks/SQL%20injection%20UNION%20attacks%20-%20Continued.md)
   
 ## Determining the number of columns required
 
