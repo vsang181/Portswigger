@@ -64,10 +64,10 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 
 ## Exploiting blind SQL injection by triggering conditional responses
 
-- Exploiting blind SQL injection by triggering conditional responses
-- Exploiting blind SQL injection by triggering conditional responses - Continued
-- Exploiting blind SQL injection by triggering conditional responses - Continued
-- Lab: Blind SQL injection with conditional responses
+- [Exploiting blind SQL injection by triggering conditional responses](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Exploiting%20blind%20SQL%20injection%20by%20triggering%20conditional%20responses/Exploiting%20blind%20SQL%20injection%20by%20triggering%20conditional%20responses.md)
+- [Exploiting blind SQL injection by triggering conditional responses - Continued](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Exploiting%20blind%20SQL%20injection%20by%20triggering%20conditional%20responses/Exploiting%20blind%20SQL%20injection%20by%20triggering%20conditional%20responses%20-%20Continued.md)
+- [Exploiting blind SQL injection by triggering conditional responses - Continued](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Exploiting%20blind%20SQL%20injection%20by%20triggering%20conditional%20responses/Exploiting%20blind%20SQL%20injection%20by%20triggering%20conditional%20responses%20-%20Continued2.md)
+- [Lab: Blind SQL injection with conditional responses](https://github.com/vsang181/Portswigger/blob/main/SQL%20injection/Exploiting%20blind%20SQL%20injection%20by%20triggering%20conditional%20responses/Lab%3A%20Blind%20SQL%20injection%20with%20conditional%20responses.md)
 
 ## Error-based SQL injection
 
